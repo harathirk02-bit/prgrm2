@@ -20,4 +20,4 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Success Message
-      run: echo "Build completed successfully"
+      run: echo "code successfully pushed and CI/CD working"
